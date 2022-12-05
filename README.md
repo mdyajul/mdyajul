@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[md-yajul-ansari-mdyajul](https://www.linkedin.com/in/md-yajul-ansari-mdyajul/)/&label=Profile%20views&color=0e75b6&style=flat" alt="mdyajul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyajul" alt="mdyajul" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/mdyajul" target="blank"><img src="https://img.shields.io/twitter/follow/mdyajul?logo=twitter&style=for-the-badge" alt="mdyajul" /></a> </p>
 
